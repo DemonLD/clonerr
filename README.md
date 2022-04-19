@@ -1,4 +1,4 @@
 
 ## Deploy in One Click
 
-[![Deploy to Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://https://github.com/lidia50torres50/v8.0)
+[![Deploy to Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/lidia50torres50/v8.0)
