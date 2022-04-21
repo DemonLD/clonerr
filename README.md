@@ -1,4 +1,4 @@
 
-## Deploy in One Click
+## Deploy in One Clic
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/luisdaniel1709/7.1.5-directo-a-heroku) 
+[![Deploy to Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/luisdaniel1709/bot-8.0-arreglado)
